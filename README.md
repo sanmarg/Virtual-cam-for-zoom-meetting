@@ -4,8 +4,8 @@ note: The script will only work for linux users that to debian based.
 Prerequisites for this shell code:
 The tool ffmpeg should be installed.
 Also in the shell code, open it with editor and remove the input.mov with your video file name.(everything should be in same directory)
-Usage: sudo chmod +x zoom.sh
-       sudo ./zoom.sh
+Usage: sudo chmod +x zmeet.sh
+       sudo ./zmeet.sh
 After this everything will be installed and in working mode also zoom will be installed or will be updated if is preinstalled.
 
 Now open your application zoom or any other select the virtual cam . Now everything will be working .
