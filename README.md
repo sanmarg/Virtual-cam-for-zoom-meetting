@@ -13,4 +13,3 @@ This tool includes or installs ffmpeg v4l2loopback and its utils and zoom app.
 
 Thank you 
 Please share your experience or any problem you are facing with it.
-email:ssp.paranjpe@gmail.com
